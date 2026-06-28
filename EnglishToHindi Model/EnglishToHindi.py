@@ -98,7 +98,7 @@ if os.path.isdir("my_en_translator"):
     else:
         print("No checkpoint found — starting fresh.")
 
-print("Starting training...")
+print("Starting training..")
 trainer.train(resume_from_checkpoint=last_checkpoint)
 
 
