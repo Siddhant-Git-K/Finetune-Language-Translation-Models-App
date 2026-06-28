@@ -6,5 +6,5 @@
 5.Then Get the Translator Script Set the right directory for the model and run it for the test
 
 **Pre Download Model**
-Download the Model folder from EnglishToHindiModel.md Linked to Huugging Face Repo
-Use translator Script and Set the right directory for the model and run it for the test
+1.Download the Model folder from EnglishToHindiModel.md Linked to Huugging Face Repo
+2.Use translator Script and Set the right directory for the model and run it for the test
