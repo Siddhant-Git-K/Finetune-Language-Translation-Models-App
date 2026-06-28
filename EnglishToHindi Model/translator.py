@@ -14,7 +14,7 @@ import tempfile
 from gtts import gTTS
 import pygame
 
-# ============= CONFIGURATION =============
+# ============= CONFIGURATION ===========
 MODEL_PATH = "model"
 TRANSLATOR_PATH = "my_hi_translator"
 SAMPLE_RATE = 16000
