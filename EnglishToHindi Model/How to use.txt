@@ -1,1 +1,10 @@
+**For Training from scratch**
+1.To Train the model yourself Download the datset By clicking The link in Dataset.md or you can get yown dataset from the internet and train it
+2.After Downloading the dataset use Training Script For traing the model but make sure check and set the path directory in code for both getting dtaset and whre model will be saved
+3.Run and let it train and it will form a model folder  containing the model 
+4.At first the size of the model will be big as it will be containing two checkpoint model trained saved the last and delte else
+5.Then Get the Translator Script Set the right directory for the model and run it for the test
 
+**Pre Download Model**
+Download the Model folder from EnglishToHindiModel.md Linked to Huugging Face Repo
+Use translator Script and Set the right directory for the model and run it for the test
