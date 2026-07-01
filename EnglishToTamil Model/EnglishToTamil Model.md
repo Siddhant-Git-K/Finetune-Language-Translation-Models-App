@@ -1,0 +1,1 @@
+Its a 293 Mb model so i have Uploded it on Hugging face You can get it from the Here is the Link[Click Here](https://huggingface.co/Sidd-K-Code/Language-Translation-Models/tree/main/EnglishToTamil%20Model)
